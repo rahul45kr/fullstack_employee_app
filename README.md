@@ -1,4 +1,4 @@
-# Fullstack Employee Management System
+# Fullstack Employee Record System
 
 A full stack Employee Management System built using React (frontend) and Spring Boot (backend) with RESTful APIs. It allows users to add, update, delete, and view employee data.
 
